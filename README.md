@@ -1,5 +1,5 @@
-**Sandeep Ghotra Portfolio**
 
+<h1 style="font-size:3em;">**Sandeep Ghotra Portfolio**</h1>
 Welcome to my portfolio website! This repository hosts a GitHub Pages site that showcases my projects, technical skills, and professional experience in business and data analysis
 
 **Overview**
