@@ -28,4 +28,4 @@ To explore this portfolio:
 Clone this repository.
 Open index.html in your web browser to view the website locally.
 Feel free to navigate through the various sections to see detailed descriptions of my projects, skills, and professional experience.
-For any questions or collaboration inquiries, please reach out via email or connect with me on LinkedIn.
+For any questions or collaboration inquiries, please reach out via email or connect with me on [LinkedIn](http://linkedin.com/in/sandeepthealchemist/).
